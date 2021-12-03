@@ -26,7 +26,7 @@ New to H2O Wave? We recommend starting in the documentation to [download and run
 
 ```bash
 git clone https://github.com/DilshanDilipudara/covid-traker.git
-cd Covid-19
+cd covid-traker
 python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
